@@ -14,7 +14,7 @@ public class HomeWorkAppLesson6 {
 
         int[] shakeArray = {4, 2, 3, 0, 5, 1, 8, 1};
         int[] shakeArrayTest = {8, 1, 1, 3, 1};
-        int[] shakeArrayTest2 = {1, 2, 3, 9, 0, 0, 9};
+        int[] shakeArrayTest2 = {1, 2, 3, 9, 0, 0, 9, 10};
 
         System.out.println(Arrays.toString(shakeSort(shakeArray)));
         System.out.println(Arrays.toString(shakeSort(shakeArrayTest)));
